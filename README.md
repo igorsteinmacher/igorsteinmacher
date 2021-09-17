@@ -14,9 +14,9 @@ I contribute (softly and preparing students) to JabRef and Querido Diário
 - My personal home page (http://www.igor.pro.br)
 
 
-![I am an ally](https://en.wikipedia.org/wiki/Straight_ally#/media/File:Straight_Ally_flag.svg)
+
 <!--
-**igorsteinmacher/igorsteinmacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I am an ally](https://en.wikipedia.org/wiki/Straight_ally#/media/File:Straight_Ally_flag.svg)**igorsteinmacher/igorsteinmacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
