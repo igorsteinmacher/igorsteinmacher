@@ -1,7 +1,8 @@
 ##  I am Igor Steinmacher 👋
 ### Professor, Research, Onboarding, Diversity and Inclusion, :brazil: Brazilian, He/him
 
-[![Igors's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsteinmacher)](https://github.com/anuraghazra/github-readme-stats)
+[![Igors's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=igorsteinmacher)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I love mentoring and teaching Open Source. Open Source culture needs to be in every developer mind.
 
